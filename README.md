@@ -1,4 +1,5 @@
 # What is NLWeb ?
+<img src="https://github.com/RishulGupta/NLWeb-by-Microsoft/blob/d0462551e5573fe9a9796bdb214458eb03d7e03c/Screenshot%202025-07-15%20024324.png" alt="App UI" />
 
 **NLWeb** simplifies the process of building conversational interfaces for websites. It natively supports MCP (Model Context Protocol), allowing the same natural language APIs to serve both humans and AI agents.
 
